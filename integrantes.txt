@@ -1,0 +1,26 @@
+ Grupo
+
+1 - integrante - Nome :Rodrigo Santana Fantibon
+                 RA : 2040482022040
+                 Github: https://github.com/RodrigoFantibon
+                 Email: rodrigo.fantibon@fatec.sp.gov.br
+
+2 - integrante - Nome : Enoque Wei Der Zhou
+                 RA : 2040482022036
+                 Github: https://github.com/enoquezhou
+                 Email: enoque.zhou@fatec.sp.gov.br
+
+3 - integrante - Nome : Lucas Santana Santos Silva
+                 RA :	2040482022048
+                 Github: https://github.com/Hoxtony
+                 Email: lucas.silva523@fatec.sp.gov.br
+
+4 - integrante - Nome : David Bernardes Porto do Nascimento
+                 RA : 2040482022049
+                 Github: https://github.com/davidsysdev
+                 Email: david.nascimento5@fatec.sp.gov.br
+
+5 - integrante - Nome :Leonardo Domingos Munarolo 
+                 RA :2040482022013
+                 Github:https://github.com/LDM1973
+                 Email:leonardo.munarolo@fatec.sp.gov.br
